@@ -1,0 +1,138 @@
+/*Background titulo Sobre Mi */
+
+.title-background {
+    position: absolute;
+    width: 1440px;
+    height: 65px;
+    left: 0px;
+    top: 170px;
+    background: #6a0ca0;
+    }
+
+/*Banner*/
+
+.banner{
+    position: absolute;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    background-image: url("../img/banner.webp");
+    background-position: center;
+    background-size: contain;
+    }
+
+/*Imagen CV*/
+
+.img-cv{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left:570px;
+    top: 20.91px;
+    }
+
+.text-about-me{
+    text-align: center;
+    
+    }    
+
+.title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 84.69%;
+    color: #ffffff;
+    }
+
+.volver-inicio{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    text-align: center;
+    }
+
+.subtitle-background {
+    background: #6a0ca0;
+    }
+
+.informacion-general {
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    left: 0px;
+    top: 390px;
+    }
+
+.gustos-musicales {
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    left: 0px;
+    top: 618px;
+    }
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: -20px;
+
+}
+
+.subtitle {
+    width: 395.62px;
+    height: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #ffffff;
+    margin: auto;
+    }
+
+.subtitle-center {
+    margin-left: 15px;
+    display: grid;
+    height: 100px;
+    width: 200px;
+    }
+
+
+.footer-background{
+    position: absolute;
+    width: 1440px;
+    height: 70px;
+    left: 0px;
+    top: 1000px;
+    background-color: #6a0ca0;
+    }
+
+/*Links redes sociales*/    
+
+.icon-instagram {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 650px;
+    top: 20px;
+    }
+    
+.icon-linkedin {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 680px;
+    top: 20px;
+    }
+    
+.icon-github {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 710px;
+    top: 20px;
+    }
+    
